@@ -1,0 +1,8 @@
+{
+    "video" : false,
+    "defaultCommandTimeout" : 15000,
+    "pageLoadTimeout" : 30000,
+    "waitForAnimation": true,
+    "ignoreTestFiles": ["*.js", "*.md"]
+
+}
